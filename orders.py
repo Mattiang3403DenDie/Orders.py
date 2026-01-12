@@ -1,3 +1,5 @@
+#use only python 3.8 or better versions
+
 order1 ='----Orders----'
 order2 = 'PIZZA: 1.25$ PER SLICE;'
 order3 ='SANDWICH:2$'
